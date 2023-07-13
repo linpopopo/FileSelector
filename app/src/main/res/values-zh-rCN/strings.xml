@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">文件选择</string>
+    <string name="text_selected_single_file">选择单个文件</string>
+    <string name="text_selected_multiple_files">选择多个文件</string>
+    <string name="text_selected_single_folder">选择单个文件夹</string>
+    <string name="text_selected_multiple_folders">选择多个文件夹</string>
+</resources>

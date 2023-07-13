@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FileSelector</string>
+    <string name="text_selected_single_file">select single file</string>
+    <string name="text_selected_multiple_files">select multiple files</string>
+    <string name="text_selected_single_folder">select single folder</string>
+    <string name="text_selected_multiple_folders">select multiple folder</string>
+</resources>
